@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Elham Al-Otaibi - CV</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+      padding: 30px;
+      direction: ltr;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      background-color: white;
+      padding: 30px;
+      width: 90%;
+      max-width: 700px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      text-align: center; /* ← هذا يجعل النص في المنتصف */
+    }
+
+    h1 {
+      color: #0077b5;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #555;
+      margin-top: 30px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Elham Safer Al-Otaibi</h1>
+  <p>An Information Technology Specialist with experience in system support, data analysis, and infrastructure management.</p>
+
+  <h2>Career Objective</h2>
+  <p>I seek to work in a professional environment where I can apply my technical skills and contribute to enhancing organizational performance.</p>
+</div>
+
+</body>
+</html>
+
+
+</head>
+<body>
